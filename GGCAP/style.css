@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  height: 100vh;
+  width: 100vw;
+  background-image: url('E5B26092-98FD-43B8-90A9-ECED9905F7DF.jpeg'); /* Your image */
+  background-size: cover;      /* Fill the screen */
+  background-position: center; /* Centered */
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
